@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="shadow_width">10dp</dimen>
+    <dimen name="slidingmenu_offset">100dp</dimen>
+
+    <!--距离-->
+    <dimen name="dimen_common_540">540dp</dimen>
+    <dimen name="dimen_common_510">510dp</dimen>
+    <dimen name="dimen_common_300">300dp</dimen>
+    <dimen name="dimen_common_280">280dp</dimen>
+    <dimen name="dimen_common_270">270dp</dimen>
+    <dimen name="dimen_common_250">250dp</dimen>
+    <dimen name="dimen_common_240">240dp</dimen>
+    <dimen name="dimen_common_200">200dp</dimen>
+    <dimen name="dimen_common_190">190dp</dimen>
+    <dimen name="dimen_common_180">180dp</dimen>
+    <dimen name="dimen_common_153">153dp</dimen>
+    <dimen name="dimen_common_150">150dp</dimen>
+    <dimen name="dimen_common_140">140dp</dimen>
+    <dimen name="dimen_common_130">130dp</dimen>
+    <dimen name="dimen_common_120">120dp</dimen>
+    <dimen name="dimen_common_105">105dp</dimen>
+    <dimen name="dimen_common_100">100dp</dimen>
+    <dimen name="dimen_common_98">98dp</dimen>
+    <dimen name="dimen_common_90">90dp</dimen>
+    <dimen name="dimen_common_80">80dp</dimen>
+    <dimen name="dimen_common_79">79dp</dimen>
+    <dimen name="dimen_common_70">70dp</dimen>
+    <dimen name="dimen_common_65">65dp</dimen>
+    <dimen name="dimen_common_60">60dp</dimen>
+    <dimen name="dimen_common_57">57dp</dimen>
+    <dimen name="dimen_common_55">55dp</dimen>
+    <dimen name="dimen_common_53">53dp</dimen>
+    <dimen name="dimen_common_52">52dp</dimen>
+    <dimen name="dimen_common_51">51dp</dimen>
+    <dimen name="dimen_common_50">50dp</dimen>
+    <dimen name="dimen_common_49">49dp</dimen>
+    <dimen name="dimen_common_47">47dp</dimen>
+    <dimen name="dimen_common_45">45dp</dimen>
+    <dimen name="dimen_common_40">40dp</dimen>
+    <dimen name="dimen_common_36">36dp</dimen>
+    <dimen name="dimen_common_35.5">35.5dp</dimen>
+    <dimen name="dimen_common_35">35dp</dimen>
+    <dimen name="dimen_common_34">34dp</dimen>
+    <dimen name="dimen_common_33">33dp</dimen>
+    <dimen name="dimen_common_32">32dp</dimen>
+    <dimen name="dimen_common_31">31dp</dimen>
+    <dimen name="dimen_common_30">30dp</dimen>
+    <dimen name="dimen_common_27">27dp</dimen>
+    <dimen name="dimen_common_25">25dp</dimen>
+    <dimen name="dimen_common_23">23dp</dimen>
+    <dimen name="dimen_common_20">20dp</dimen>
+    <dimen name="dimen_common_18">18dp</dimen>
+    <dimen name="dimen_common_16.5">16.5dp</dimen>
+    <dimen name="dimen_common_16">16dp</dimen>
+    <dimen name="dimen_common_15">15dp</dimen>
+    <dimen name="dimen_common_14">14dp</dimen>
+    <dimen name="dimen_common_13">13dp</dimen>
+    <dimen name="dimen_common_12">12dp</dimen>
+    <dimen name="dimen_common_10">10dp</dimen>
+    <dimen name="dimen_common_9">9dp</dimen>
+    <dimen name="dimen_common_8">8dp</dimen>
+    <dimen name="dimen_common_7">7dp</dimen>
+    <dimen name="dimen_common_6">6dp</dimen>
+    <dimen name="dimen_common_5">5dp</dimen>
+    <dimen name="dimen_common_4">4dp</dimen>
+    <dimen name="dimen_common_3">3dp</dimen>
+    <dimen name="dimen_common_2">2dp</dimen>
+    <dimen name="dimen_common_1dp">1dp</dimen>
+    <dimen name="dimen_common_0dp">0dp</dimen>
+    <dimen name="dimen_common_1">1px</dimen>
+
+    <!--字体大小-->
+    <dimen name="dimen_common_text_size_52">50sp</dimen>
+    <dimen name="dimen_common_text_size_42">42sp</dimen>
+    <dimen name="dimen_common_text_size_34">34sp</dimen>
+    <dimen name="dimen_common_text_size_28">28sp</dimen>
+    <dimen name="dimen_common_text_size_23">23sp</dimen>
+    <dimen name="dimen_common_text_size_22">22sp</dimen>
+    <dimen name="dimen_common_text_size_20">20sp</dimen>
+    <dimen name="dimen_common_text_size_18">18sp</dimen>
+    <dimen name="dimen_common_text_size_17">17sp</dimen>
+    <dimen name="dimen_common_text_size_16">16sp</dimen>
+    <dimen name="dimen_common_text_size_15">15sp</dimen>
+    <dimen name="dimen_common_text_size_14">14sp</dimen>
+    <dimen name="dimen_common_text_size_13">13sp</dimen>
+    <dimen name="dimen_common_text_size_12">12sp</dimen>
+    <dimen name="dimen_common_text_size_10">10sp</dimen>
+
+    <dimen name="no_network_height">30dp</dimen>
+    <dimen name="vehicle_status_tire_pressure_size">20sp</dimen>
+    <dimen name="haval_title_size">15sp</dimen>
+    <dimen name="haval_control_size">13dp</dimen>
+    <dimen name="haval_scy_pwd_margin">11dp</dimen>
+</resources>

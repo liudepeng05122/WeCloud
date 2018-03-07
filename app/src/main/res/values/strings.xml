@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">WeCloud</string>
+
+    <!--登录-->
+    <string name="login">登 录</string>
+    <string name="login_account_hint">请填写手机号</string>
+    <string name="login_password_hint">请填写密码</string>
+    <string name="login_register">注册</string>
+    <string name="login_forget_password">忘记密码</string>
+    <string name="common_next_string">下一步</string>
+    <string name="login_phone_number_error">手机号或密码格式有误</string>
+
+    <!--注册-->
+    <string name="register_phone_number_hint">请输入您购车时提供的手机号</string>
+    <string name="register_phone_number_error">手机号格式有误</string>
+    <string name="register_password_not_same_error">两次密码不一致</string>
+    <string name="register_password_error">密码格式有误</string>
+    <string name="register_register_new_pwd_hint">输入密码,6-20位数字和字母的组合</string>
+    <string name="register_register_confirm_pwd_hint">再次输入密码</string>
+    <!--找回密码-->
+    <string name="forget_password">找回密码</string>
+    <string name="forget_password_phone_number_hint">请填写登录时使用的手机号</string>
+
+    <!--短信验证-->
+    <string name="m_sms_ver_title">请输入短信验证码</string>
+    <string name="m_sms_ver_hint">请输入6位短信验证码</string>
+    <string name="m_sms_ver_post_again">重发验证码</string>
+    <string name="m_sms_ver_code">验证码</string>
+    <string name="m_sms_ver_get_code">获取验证码</string>
+
+    <!--dialog-->
+    <string name="dialog_waiting">请稍候...</string>
+
+    <!--消息推送-->
+    <string name="message_title">消息推送列表</string>
+    <string name="message_add_tag">新增Tag</string>
+    <string name="message_commit_tag">提交</string>
+
+    <!--远程控制-->
+    <string name="remote_control">远程控制</string>
+    <string name="h_frag_lock">车锁</string>
+    <string name="h_frag_air">空调</string>
+    <string name="h_frag_engine">引擎</string>
+    <string name="h_frag_vehicle_status">车况</string>
+    <string name="h_frag_diagnose">诊断</string>
+    <string name="h_control_open_lock">解锁</string>
+    <string name="h_control_close_lock">闭锁</string>
+    <string name="h_control_lights">鸣笛/闪灯</string>
+    <string name="h_control_open">开启</string>
+    <string name="h_control_close">关闭</string>
+    <string name="run_diagnose">正在诊断，请稍后再试</string>
+    <string name="diagnose_detail_title">异常记录</string>
+    <string name="refresh_vehicle_status">刷新车况</string>
+
+    <!-- 指纹输入对话框 -->
+    <string name="dialog_finger_print">“WeCloud”的Touch ID</string>
+    <string name="dialog_finger_print_verify">请验证已有的指纹</string>
+    <string name="dialog_finger_print_cancel">取消</string>
+
+    <!--设置-->
+    <string name="setting">设置</string>
+    <string name="setting_ScyPwd">设置安防密码</string>
+
+</resources>

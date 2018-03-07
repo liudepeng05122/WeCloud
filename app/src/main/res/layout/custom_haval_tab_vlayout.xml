@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/transparent">
+
+    <RelativeLayout
+        android:id="@+id/lnl_bar"
+        android:layout_width="match_parent"
+        android:layout_height="74dp"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:id="@+id/control_lnl"
+            android:layout_width="match_parent"
+            android:layout_height="74dp"
+            android:orientation="horizontal">
+
+            <LinearLayout
+                android:id="@+id/lnl_key"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:gravity="center_horizontal"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:id="@+id/iv_key"
+                    android:layout_width="55dp"
+                    android:layout_height="55dp"
+                    android:src="@drawable/key_2_btn_key_nor" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/black"
+                    android:textSize="@dimen/haval_control_size"
+                    android:text="@string/h_frag_lock" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/lnl_air"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:gravity="center_horizontal"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:id="@+id/iv_air"
+                    android:layout_width="55dp"
+                    android:layout_height="55dp"
+                    android:src="@drawable/key_2_btn_air_nor" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/black"
+                    android:textSize="@dimen/haval_control_size"
+                    android:text="@string/h_frag_air" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/lnl_engine"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:gravity="center_horizontal"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:id="@+id/iv_engine"
+                    android:layout_width="55dp"
+                    android:layout_height="55dp"
+                    android:src="@drawable/key_2_btn_engine_nor" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/black"
+                    android:textSize="@dimen/haval_control_size"
+                    android:text="@string/h_frag_engine" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/lnl_status"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:gravity="center_horizontal"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:id="@+id/iv_status"
+                    android:layout_width="55dp"
+                    android:layout_height="55dp"
+                    android:src="@drawable/key_2_btn_car_nor" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/black"
+                    android:textSize="@dimen/haval_control_size"
+                    android:text="@string/h_frag_vehicle_status" />
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </RelativeLayout>
+
+</RelativeLayout>
